@@ -2,6 +2,12 @@
 
 **个人独立全栈项目 | An Independent Full-Stack Project**
 
+**在线体验**：https://math-site-t41h.onrender.com
+**GitHub**：https://github.com/dsusczhaofangfang-bit
+
+Live demo (free instance, first load may take ~30s to wake up) · 免费实例，休眠后首次打开可能需要等待约 30 秒。
+
+
 面向数学学习的个人知识管理站点：把课程章节、题库、概念、错题与学习时长放在同一个工作台里。
 
 A personal knowledge workspace for learning mathematics — courses, problem bank, concept network, mistake notebook and study time in one place.
