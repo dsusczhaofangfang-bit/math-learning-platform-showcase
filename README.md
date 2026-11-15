@@ -277,7 +277,44 @@ I am the sole developer of this project and handled every stage from requirement
 
 ---
 
-## 10. 项目进度 | Project Status
+## 10. 项目展示 | Preview
+
+### 中文
+
+**入口：登录页与欢迎页**
+
+<p align="center">
+  <img src="docs/images/login.png" alt="登录页" width="420">
+  <img src="docs/images/welcome.png" alt="登录后的欢迎页" width="420">
+</p>
+
+**首页与课程中心**
+
+<p align="center">
+  <img src="docs/images/home.png" alt="首页：继续学习与本周学习节奏" width="420">
+  <img src="docs/images/courses.png" alt="课程中心" width="420">
+</p>
+
+**数学题库与概念汇总**
+
+<p align="center">
+  <img src="docs/images/problems.png" alt="数学题库：按课程、来源、题型筛选" width="420">
+  <img src="docs/images/concepts.png" alt="概念汇总" width="420">
+</p>
+
+**个人中心**
+
+<p align="center">
+  <img src="docs/images/profile.png" alt="个人中心" width="420">
+</p>
+
+### English
+
+Screenshots of the working application: sign-in and welcome screens, home with the study-rhythm chart, course centre, problem bank with source filters, concept library, and profile.
+
+---
+
+## 11. 项目进度 | Project Status
 
 ### 中文
 
@@ -311,7 +348,7 @@ I am the sole developer of this project and handled every stage from requirement
 
 ---
 
-## 11. 本地运行 | Run Locally
+## 12. 本地运行 | Run Locally
 
 ### 中文
 
@@ -342,7 +379,7 @@ Without `DATABASE_URL` the app falls back to a local PGlite file database, so it
 
 ---
 
-## 12. 后续规划 | Future Work
+## 13. 后续规划 | Future Work
 
 ### 中文
 
@@ -362,7 +399,7 @@ Without `DATABASE_URL` the app falls back to a local PGlite file database, so it
 
 ---
 
-## 13. 隐私与源码 | Privacy & Source Code
+## 14. 隐私与源码 | Privacy & Source Code
 
 ### 中文
 
@@ -374,7 +411,7 @@ This repository serves as a project showcase. The source code is kept private an
 
 ---
 
-## 14. 声明 | Disclaimer
+## 15. 声明 | Disclaimer
 
 ### 中文
 
